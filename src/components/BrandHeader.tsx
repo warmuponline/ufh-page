@@ -3,7 +3,7 @@ import { ArrowRightIcon } from 'lucide-react';
 export const BrandHeader = () => {
   return <section className="relative w-full bg-white">
       <div className="absolute inset-0 z-0 overflow-hidden">
-        <img src="https://www.warmup.co.uk/wp-content/uploads/2023/06/Warmup-Underfloor-Heating-Smart-Thermostat-Living-Room-1536x1024.jpg" alt="Warmup underfloor heating in a modern living room" className="w-full h-full object-cover opacity-20" />
+        <img src="https://www.warmup.co.uk/wp-content/uploads/2.-Loose-wire-kitchen-black-completely-scaled.jpg" alt="Warmup underfloor heating in a modern living room" className="w-full h-full object-cover opacity-20" />
         <div className="absolute inset-0 bg-gradient-to-b from-white/80 to-white"></div>
       </div>
       <div className="relative z-10 max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-24 md:py-32">
